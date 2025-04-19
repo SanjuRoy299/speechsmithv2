@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import json
 from dotenv import load_dotenv
-from pages.service_page_old import services
+from pages.service_page import services
 from pages.home_page import home
 from pages.about_page import about
 from pages.contact_page import contact
