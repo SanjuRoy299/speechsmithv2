@@ -1,5 +1,5 @@
 import streamlit as st
-from pages.service_page_old import services
+from pages.service_page import services
 
 def load_home_css():
     st.markdown("""
